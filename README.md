@@ -1,279 +1,95 @@
-<div align="center">
+<h1 data-importer="text" align="left">👋 Hey, I'm Mukilan</h1>
 
-# 👋 Hey, I'm Mukilan
+###
 
-### AI Engineer in the Making · Full-Stack Developer · Data Science Enthusiast
+<h3 data-importer="text" align="left">AI Engineer in the Making · Full-Stack Developer · Data Science Enthusiast</h3>
 
-**I build things, break things, learn from them, and build them better.**
+###
 
-<a href="https://www.linkedin.com/in/mukilan-m-b770b6274/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<br clear="both">
 
-<br><br>
+<p data-importer="text" align="left">I build things, break things, learn from them, and build them better.</p>
 
-<img src="https://komarev.com/ghpvc/?username=Mukilan13&label=Profile%20Views&color=6366f1&style=flat" />
+###
 
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="45" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="45" alt="threejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="45" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="45" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="45" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="45" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="45" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
 </div>
 
----
+###
 
-## 🧠 About Me
-
-I'm a **final-year Artificial Intelligence & Data Science student** who enjoys building real-world software and exploring how AI can make applications smarter.
-
-My background is primarily in **full-stack development**, and I'm now combining that experience with **Machine Learning, Data Science, and AI Engineering**.
-
-```text
-        ┌─────────────────────────────┐
-        │      Software Development   │
-        └──────────────┬──────────────┘
-                       │
-                       ▼
-        ┌─────────────────────────────┐
-        │       Data & Analytics      │
-        └──────────────┬──────────────┘
-                       │
-                       ▼
-        ┌─────────────────────────────┐
-        │       Machine Learning      │
-        └──────────────┬──────────────┘
-                       │
-                       ▼
-        ┌─────────────────────────────┐
-        │        AI Engineering       │
-        └──────────────┬──────────────┘
-                       │
-                       ▼
-              🚀 Real Products
-```
-
-### Currently focused on
-
-- 🤖 Building stronger **AI & Machine Learning** foundations
-- 📊 Practical **Data Science & Analytics**
-- 🧠 Learning **AI Engineering & LLM applications**
-- 🔌 Building APIs and integrating AI into applications
-- ☁️ Understanding deployment and production workflows
-- 🚀 Turning ideas into working products
-
----
-
-# ⚡ Tech I Work With
-
-### 🤖 AI / Data
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-</p>
-
-### 🌐 Full-Stack Development
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-</p>
-
----
-
-# 🚀 What I Build
-
-I enjoy working across the entire journey:
-
-```text
-Idea
- ↓
-Design
- ↓
-Frontend
- ↓
-Backend
- ↓
-Database
- ↓
-APIs
- ↓
-AI / ML
- ↓
-Deployment
- ↓
-Real Users
-```
-
-Rather than focusing on only one layer, I like understanding **how the pieces work together**.
-
----
-
-# 🔥 Featured Work
-
-<table>
-<tr>
-<td width="50%">
-
-### 📦 Inventory Management System
-
-A full-stack business application for managing inventory, purchases, sales, billing and expenses.
-
-**Built with**
-
-`React` `Node.js` `Express` `PostgreSQL`
-
-</td>
-
-<td width="50%">
-
-### 📝 NoteNest
-
-A productivity-focused application for creating and organizing notes.
-
-**Built with**
-
-`React` `Node.js` `Express` `MongoDB`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🚗 Uber Clone
-
-A full-stack application built to understand real-world booking workflows and application architecture.
-
-**Built with**
-
-`React` `Node.js` `Express` `MongoDB`
-
-</td>
-
-<td width="50%">
-
-### 🧠 AI Projects
-
-Currently exploring projects around:
-
-`Machine Learning` `Data Science` `AI Applications`
-
-More coming soon.
-
-</td>
-</tr>
-</table>
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mukilan13&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukilan13&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
-
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/mukilan13-m" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:mukilan1301@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
-<br>
+###
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Mukilan13&theme=transparent&hide_border=true" />
-
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Mukilan13&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/Mukilan13/Mukilan13/stats-output/stats.svg?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Mukilan13/Mukilan13/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Mukilan13/Mukilan13/trophy-output/trophy.svg?theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
----
+###
 
-# 🏆 GitHub Achievements
+<br clear="both">
 
-<div align="center">
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mukilan13/Mukilan13/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mukilan13/Mukilan13/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mukilan13/Mukilan13/pacman-output/breakout-contribution-graph.svg?game=breakout">
+</picture>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mukilan13&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-
-</div>
-
----
-
-# 📊 My Developer Journey
-
-```text
-Full-Stack Development
-        │
-        ├── React
-        ├── Node.js
-        ├── Express
-        └── PostgreSQL / MongoDB
-                │
-                ▼
-         Data Science
-                │
-                ├── Python
-                ├── NumPy
-                ├── Pandas
-                └── Data Analysis
-                │
-                ▼
-       Machine Learning
-                │
-                ▼
-        AI Engineering
-                │
-                ├── AI Applications
-                ├── LLMs
-                ├── APIs
-                └── Production Systems
-                │
-                ▼
-        🚀 AI-Powered Products
-```
-
----
-
-# 🎯 2026 Goals
-
-- [ ] Build production-quality AI applications
-- [ ] Strengthen Machine Learning fundamentals
-- [ ] Learn modern LLM application development
-- [ ] Build and deploy end-to-end AI projects
-- [ ] Improve DSA & problem-solving
-- [ ] Contribute to open-source projects
-- [ ] Become a strong AI Engineer
-
----
-
-<div align="center">
-
-### 💭 Build. Learn. Experiment. Repeat.
-
-**Thanks for stopping by!**
-
-⭐ If you find something interesting here, feel free to explore my repositories.
-
-<br>
-
-<a href="https://www.linkedin.com/in/mukilan-m-b770b6274/">
-<img src="https://img.shields.io/badge/Let's%20Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
+###
