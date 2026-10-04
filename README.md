@@ -1,82 +1,122 @@
-<h1 data-importer="text" align="left">👋 Hey, I'm Mukilan</h1>
+<!-- ═══════════════ HEADER ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=210&section=header&text=Mukilan&fontSize=64&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20and%20AI%20Engineer&descAlignY=58&descSize=18" width="100%" alt="header" />
 
-###
+<div align="center">
 
-<h3 data-importer="text" align="left">AI Engineer in the Making · Full-Stack Developer · Data Science Enthusiast</h3>
+<a href="https://github.com/Mukilan13">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&width=640&height=45&lines=I+build+things%2C+break+things%2C+learn%2C+rebuild.;MERN+stack+%E2%86%92+shipping+real+products.;B.Tech+AI+%26+Data+Science+%C3%97+IIT+Madras+BS.;Open+to+full-stack+internships+%F0%9F%9A%80" alt="typing intro" />
+</a>
 
-###
+<br/>
 
-<br clear="both">
+<a href="https://mukilan-m-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/mukilan13-m" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:mukilan1301@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<img src="https://komarev.com/ghpvc/?username=Mukilan13&label=Profile+Views&color=6366f1&style=for-the-badge" alt="views" />
 
-<p data-importer="text" align="left">I build things, break things, learn from them, and build them better.</p>
-
-###
-
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="45" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="45" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="45" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="45" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="45" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="45" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="45" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
 </div>
 
-###
+<br/>
 
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/mukilan13-m" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<!-- ═══════════════ ABOUT (terminal style) ═══════════════ -->
+
+## `~/about`
+
+```ts
+const mukilan = {
+  role: "Full-Stack Developer (MERN)",
+  studying: [
+    "B.Tech — Artificial Intelligence & Data Science",
+    "BS Data Science — IIT Madras",
+  ],
+  experience: "Intern @ Tera InfoTech",
+  currentlyExploring: ["Machine Learning", "System design", "DSA"],
+  lookingFor: "Full-stack developer internship",
+  funFact: "I clone apps to understand how they really work.",
+};
+```
+
+<br/>
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+
+## `~/stack`
+
+<table>
+  <tr>
+    <td><b>🖥️ Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,threejs" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,flask,php,postman" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🧠 Data &amp; AI</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=py" height="48" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="48" alt="matlab" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🛠️ Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,wordpress" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
+
+## `~/projects`
+
+<div align="center">
+  <a href="https://github.com/Mukilan13/Uber-Clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukilan13&repo=Uber-Clone&theme=tokyonight&hide_border=true&border_radius=10" />
   </a>
-  <a href="mailto:mukilan1301@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://github.com/Mukilan13/iPhone-15-Pro-Clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukilan13&repo=iPhone-15-Pro-Clone&theme=tokyonight&hide_border=true&border_radius=10" />
+  </a>
+  <br/>
+  <a href="https://github.com/Mukilan13/Crickz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukilan13&repo=Crickz&theme=tokyonight&hide_border=true&border_radius=10" />
+  </a>
+  <a href="https://github.com/Mukilan13/NoteNest-Mern-Note-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukilan13&repo=NoteNest-Mern-Note-App&theme=tokyonight&hide_border=true&border_radius=10" />
   </a>
 </div>
 
-###
+<br/>
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Mukilan13&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+<!-- ═══════════════ GITHUB STATS ═══════════════ -->
+
+## `~/stats`
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mukilan13&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukilan13&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
+  <br/><br/>
+  <img height="150" src="https://streak-stats.demolab.com?user=Mukilan13&theme=tokyonight&hide_border=true&border_radius=10&mode=weekly" />
 </div>
 
-###
+<br/>
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
+<div align="center">
+
+**Let's build something together.** &nbsp;→&nbsp; [mukilan1301@gmail.com](mailto:mukilan1301@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=110&section=footer" width="100%" alt="footer" />
