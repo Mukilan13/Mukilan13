@@ -12,7 +12,6 @@
 <a href="https://mukilan-m-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/mukilan13-m" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:mukilan1301@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<img src="https://komarev.com/ghpvc/?username=Mukilan13&label=Profile+Views&color=6366f1&style=for-the-badge" alt="views" />
 
 </div>
 
